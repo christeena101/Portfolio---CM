@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/public/videos/coding.gif');
+  background-image: url('/public/videos/pink.gif');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .contact {
-  background-image: url('/public/videos/gradient.gif'); 
+  background-image: url('/public/videos/whitepink.gif'); 
   background-position: center;
   background-size: cover; /* or 'contain' as needed */
   background-repeat: no-repeat;
@@ -77,7 +77,7 @@ textarea.form-input {
 }
 
 .btn {
-  background-color: orangered; /* Button background color */
+  background-color: pink; /* Button background color */
   color: #fff; /* Button text color */
   padding: 10px 20px;
   font-size: 30px; /* Button text size */

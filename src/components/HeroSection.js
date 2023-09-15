@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video muted loop autoPlay className="video-bg">
-        <source src={process.env.PUBLIC_URL + '/videos/bglol.mp4'} type="video/mp4" />
+        <source src={process.env.PUBLIC_URL + '/videos/20_04_04.mp4'} type="video/mp4" />
       </video>
       <h1>Hi, I'm Christeena Joby</h1>
       <p>Passionate Web Developer & Creative Designer</p>
